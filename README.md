@@ -1,4 +1,4 @@
-# Airline-Customer-Satisfaction
+# Predict-Airline-Customer-Satisfaction
 
 The code is created as a foundation of understanding and comparing data science/machine learning solutions made in Python notebooks locally and on Azure cloud, as a part of Course DP-100 - Designing and Implementing a Data Science Solution on Azure.
 
